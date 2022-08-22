@@ -8,6 +8,7 @@ A collection of awesomeness pertaining to [Bloodhound](https://github.com/BloodH
  * [Introducing BloodHound 4.2 — The Azure Refactor](https://posts.specterops.io/1cff734938bd)
  * [CERTIFRIED & BLOODHOUND: MORE AD CS ABUSE](https://capturethetalent.co.uk/certifried-bloodhound-more-ad-cs-abuse/)
  * [Dealing with large BloodHound datasets](https://blog.bitsadmin.com/blog/dealing-with-large-bloodhound-datasets)
+ * [BARK Detections](https://github.com/reprise99/Sentinel-Queries/tree/main/Azure%20AD%20Abuse%20Detection)
 
 
 ## YouTube
