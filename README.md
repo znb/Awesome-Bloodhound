@@ -14,7 +14,8 @@ A collection of awesomeness pertaining to [Bloodhound](https://github.com/BloodH
 ## YouTube
 
  * [BLOODHOUND Domain Enumeration (Active Directory #06)](https://www.youtube.com/watch?utm_source=pocket_mylist&v=yp8fw72oQvY)
-
+ * [Attacking and Defending Azure with BloodHound | WWHF San
+     Diego 2022](https://www.youtube.com/watch?v=GTR-K7urk)
 
 ## Tools
 
