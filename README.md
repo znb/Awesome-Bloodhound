@@ -22,6 +22,7 @@ A collection of awesomeness pertaining to [Bloodhound](https://github.com/BloodH
  * [BARK BloodHound Attack Research Kit](https://github.com/BloodHoundAD/BARK)
  * [BloodHound.py is a Python based ingestor for BloodHound](https://github.com/fox-it/BloodHound.py)
  * [Importing (large) JSON datasets into BloodHound](https://github.com/bitsadmin/chophound)
+ * [Handy BloodHound Cypher Queries.md](https://github.com/mgeeky/Penetration-Testing-Tools/blob/master/red-teaming/bloodhound/Handy-BloodHound-Cypher-Queries.md)
 
 
 ## Visualisation
